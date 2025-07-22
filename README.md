@@ -32,7 +32,7 @@ Run the following commands to set up your environment:
 
 ```bash
 # Clone the repository
-git clone https://github.com/zakariak03/ai_text_classifier.git
+git clone https://github.com/scr4shdev/ai_text_classifier.git
 cd ai_text_classifier
 
 # Create and activate a virtual environment
