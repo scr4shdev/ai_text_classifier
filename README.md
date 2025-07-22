@@ -120,3 +120,5 @@ Response example:
 - GPU recommended for BERT training but not mandatory.
 
 - Naive Bayes is lightweight and suitable for quick experiments.
+
+- The BERT implementation would require far more data than what is actually available in the dataset linked above since BERT captures very complex patterns in training. In contrast, the Naive Bayes implementation is suitable for simple use.
